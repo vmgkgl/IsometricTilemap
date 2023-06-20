@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - box
+  - box1
+  - ice
   layers:
   - Default
   - TransparentFX
@@ -46,4 +49,13 @@ TagManager:
     locked: 0
   - name: Layer2
     uniqueID: 2793254545
+    locked: 0
+  - name: Layer3
+    uniqueID: 988910385
+    locked: 0
+  - name: Character
+    uniqueID: 3961541051
+    locked: 0
+  - name: Magic
+    uniqueID: 3851307073
     locked: 0
